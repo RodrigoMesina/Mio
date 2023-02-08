@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+
+hi{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#app{
+    background-color: blanchedalmond;
+}
+#myCarousel{
+    background-color: blanchedalmond;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-top: 15px;
+    color:blanchedalmond;
+    font-size: 20px;
+}
